@@ -1,3 +1,3 @@
 #!/bin/sh
 
-tar zcvf aliddns.tar.gz aliddns
+tar zcvf aliddns-plus.tar.gz aliddns-plus
